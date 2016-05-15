@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=FR, ST=IDF, L=Cr\xC3\xA9teil, O=UPEC, OU=UPEC Sciences, CN=UPEC CA/name=CA/emailAddress=ca@u-pec.fr
+        Validity
+            Not Before: Jan 19 22:55:59 2016 GMT
+            Not After : Jan 16 22:55:59 2026 GMT
+        Subject: C=FR, ST=IDF, L=Paris 19, O=Arnaud, OU=ArnaudUPEC, CN=Arnaud/name=arnaud/emailAddress=arnaud@u-pec.fr
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c0:6e:9c:05:a7:2b:2d:61:a2:92:79:12:42:64:
+                    d6:c1:7d:75:a5:60:4e:b5:2e:5a:df:08:fb:41:18:
+                    d7:88:20:8b:10:49:3c:f6:83:24:3f:e6:4f:65:61:
+                    9a:59:fa:c4:6c:48:e0:ec:78:9c:14:99:ed:8b:16:
+                    a5:57:0c:56:9f:2d:0c:ed:98:15:e4:aa:63:82:4b:
+                    e7:2c:0b:f1:ec:df:c3:02:9c:95:b5:e6:ed:17:80:
+                    04:18:80:8a:fd:7a:a6:80:2a:32:77:2b:cc:73:db:
+                    1d:63:46:91:8b:d2:e7:92:59:5d:0b:09:35:f6:f4:
+                    c2:a4:32:04:9f:ad:ba:5f:2f:bb:5f:b4:2c:0b:bd:
+                    7b:0b:4d:db:1a:54:fe:e6:b7:0b:e4:50:68:91:11:
+                    ed:3c:0a:86:eb:00:74:03:5a:bb:fa:59:fe:d8:66:
+                    bf:87:c5:f3:61:f5:e7:7f:a8:8a:bb:8c:de:1c:0a:
+                    b8:d8:7d:a0:27:4f:d6:8b:87:d9:af:d6:05:17:c3:
+                    47:60:b6:af:74:c5:45:49:4f:68:ba:3a:a9:23:cd:
+                    be:4a:f8:d9:fc:2b:f1:4b:c4:e8:97:17:5b:ab:a6:
+                    44:59:d7:c7:d2:06:3f:b8:84:d6:82:f1:83:dc:0b:
+                    dc:dd:71:89:3c:b3:2b:0a:7e:46:7d:1a:f6:46:80:
+                    59:41
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                DA:22:88:FC:30:00:D3:50:04:1E:BE:0E:0D:23:24:1B:45:00:85:D8
+            X509v3 Authority Key Identifier: 
+                keyid:65:A8:76:48:83:AA:6A:8E:11:B7:6E:AB:26:FA:D2:D0:5E:F1:B3:2B
+                DirName:/C=FR/ST=IDF/L=Cr\xC3\xA9teil/O=UPEC/OU=UPEC Sciences/CN=UPEC CA/name=CA/emailAddress=ca@u-pec.fr
+                serial:EA:8C:AD:F3:A9:49:EE:30
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:client-arnaud
+    Signature Algorithm: sha256WithRSAEncryption
+         c1:06:65:6c:df:4a:37:ad:8f:31:7c:a3:bd:7a:62:48:a4:28:
+         64:28:1d:9e:aa:69:ef:18:31:6e:58:e7:eb:f5:73:e0:45:c5:
+         87:fd:01:3c:e4:51:c7:f8:a6:1c:48:01:ed:b8:de:39:d9:78:
+         66:0c:16:db:a2:d2:88:9e:fe:4d:b2:fc:d3:c9:00:32:5e:5f:
+         f0:5b:e2:42:04:44:9f:d6:31:19:31:88:b6:95:8c:15:9d:3e:
+         e8:22:4f:fe:84:47:8e:c9:9a:87:b1:42:23:cb:27:40:45:91:
+         6e:22:4b:72:58:85:dd:3d:1f:1a:a8:99:15:95:80:74:3c:f9:
+         c2:f6:e7:64:1d:5e:11:4d:d3:56:6c:98:59:c7:67:72:6b:02:
+         a6:39:eb:76:7c:10:a9:56:cd:11:03:eb:90:6a:88:89:61:1b:
+         dc:58:2d:6a:bd:e0:ff:a1:2f:d3:dd:66:f0:bb:a0:fa:28:2c:
+         f1:8e:c6:31:dc:a1:cd:fc:ab:17:03:71:e8:5b:10:15:ee:67:
+         24:ba:c7:76:5a:dc:49:7a:35:32:52:7d:13:a0:67:d9:bf:d2:
+         f8:19:7c:21:10:2c:7d:97:4f:54:47:d7:b7:73:54:af:2d:26:
+         1e:79:42:fc:c1:ed:fe:ed:8c:90:28:64:2b:7b:37:5f:c3:40:
+         02:b2:63:3b
+-----BEGIN CERTIFICATE-----
+MIIFBjCCA+6gAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBkDELMAkGA1UEBhMCRlIx
+DDAKBgNVBAgTA0lERjERMA8GA1UEBxQIQ3LDqXRlaWwxDTALBgNVBAoTBFVQRUMx
+FjAUBgNVBAsTDVVQRUMgU2NpZW5jZXMxEDAOBgNVBAMTB1VQRUMgQ0ExCzAJBgNV
+BCkTAkNBMRowGAYJKoZIhvcNAQkBFgtjYUB1LXBlYy5mcjAeFw0xNjAxMTkyMjU1
+NTlaFw0yNjAxMTYyMjU1NTlaMIGWMQswCQYDVQQGEwJGUjEMMAoGA1UECBMDSURG
+MREwDwYDVQQHEwhQYXJpcyAxOTEPMA0GA1UEChMGQXJuYXVkMRMwEQYDVQQLEwpB
+cm5hdWRVUEVDMQ8wDQYDVQQDEwZBcm5hdWQxDzANBgNVBCkTBmFybmF1ZDEeMBwG
+CSqGSIb3DQEJARYPYXJuYXVkQHUtcGVjLmZyMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAwG6cBacrLWGiknkSQmTWwX11pWBOtS5a3wj7QRjXiCCLEEk8
+9oMkP+ZPZWGaWfrEbEjg7HicFJntixalVwxWny0M7ZgV5KpjgkvnLAvx7N/DApyV
+tebtF4AEGICK/XqmgCoydyvMc9sdY0aRi9LnklldCwk19vTCpDIEn626Xy+7X7Qs
+C717C03bGlT+5rcL5FBokRHtPAqG6wB0A1q7+ln+2Ga/h8XzYfXnf6iKu4zeHAq4
+2H2gJ0/Wi4fZr9YFF8NHYLavdMVFSU9oujqpI82+SvjZ/CvxS8Tolxdbq6ZEWdfH
+0gY/uITWgvGD3Avc3XGJPLMrCn5GfRr2RoBZQQIDAQABo4IBYTCCAV0wCQYDVR0T
+BAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRpZmlj
+YXRlMB0GA1UdDgQWBBTaIoj8MADTUAQevg4NIyQbRQCF2DCBxQYDVR0jBIG9MIG6
+gBRlqHZIg6pqjhG3bqsm+tLQXvGzK6GBlqSBkzCBkDELMAkGA1UEBhMCRlIxDDAK
+BgNVBAgTA0lERjERMA8GA1UEBxQIQ3LDqXRlaWwxDTALBgNVBAoTBFVQRUMxFjAU
+BgNVBAsTDVVQRUMgU2NpZW5jZXMxEDAOBgNVBAMTB1VQRUMgQ0ExCzAJBgNVBCkT
+AkNBMRowGAYJKoZIhvcNAQkBFgtjYUB1LXBlYy5mcoIJAOqMrfOpSe4wMBMGA1Ud
+JQQMMAoGCCsGAQUFBwMCMAsGA1UdDwQEAwIHgDAYBgNVHREEETAPgg1jbGllbnQt
+YXJuYXVkMA0GCSqGSIb3DQEBCwUAA4IBAQDBBmVs30o3rY8xfKO9emJIpChkKB2e
+qmnvGDFuWOfr9XPgRcWH/QE85FHH+KYcSAHtuN452XhmDBbbotKInv5NsvzTyQAy
+Xl/wW+JCBESf1jEZMYi2lYwVnT7oIk/+hEeOyZqHsUIjyydARZFuIktyWIXdPR8a
+qJkVlYB0PPnC9udkHV4RTdNWbJhZx2dyawKmOet2fBCpVs0RA+uQaoiJYRvcWC1q
+veD/oS/T3Wbwu6D6KCzxjsYx3KHN/KsXA3HoWxAV7mckusd2WtxJejUyUn0ToGfZ
+v9L4GXwhECx9l09UR9e3c1SvLSYeeUL8we3+7YyQKGQrezdfw0ACsmM7
+-----END CERTIFICATE-----
